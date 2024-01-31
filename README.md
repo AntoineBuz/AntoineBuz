@@ -1,5 +1,5 @@
 ### Hello, I'm Antoine, welcome to my GitHub profile.
-I am a French student in computer science, keen on AI, data and programming.
+I am a ML engineer, keen on data and making AI models running for others. 
 
 <h4>🚀 Dev tools I use</h4>
 <p align="left">
